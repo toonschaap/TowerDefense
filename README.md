@@ -1,8 +1,8 @@
 Tower defense
 
 Game info
-  Engine: Unity
-  Language: c#
+  Engine: Unity.
+  Language: c#.
 
 
 
